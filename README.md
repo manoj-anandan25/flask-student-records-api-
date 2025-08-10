@@ -202,5 +202,3 @@ Response Example:
 ```
 
 
-Do you want me to also make a **GitHub-ready folder structure** with this README, `app.py`, `requirements.txt`, and `LICENSE` so you can push it directly? That way it’s plug-and-play for anyone.
-```
