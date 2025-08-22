@@ -2,7 +2,7 @@
 
 A simple REST API built with **Flask** and **SQLAlchemy** to manage student records.  
 Supports CRUD operations (Create, Read, Update, Delete) using a local SQLite database.
-i will get it 
+
 
 ---
 
